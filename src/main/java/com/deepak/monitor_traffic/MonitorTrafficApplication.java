@@ -6,7 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MonitorTrafficApplication {
         //Trying Git
+	
 	public static void main(String[] args) {
+		// Main code 
 		SpringApplication.run(MonitorTrafficApplication.class, args);
 	}
 
