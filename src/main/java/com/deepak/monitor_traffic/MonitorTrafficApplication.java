@@ -10,6 +10,7 @@ public class MonitorTrafficApplication {
 	public static void main(String[] args) {
 		// Main code
 		// Changes in the Feature Branch
+		// Branch Protection Rule Applied
 		SpringApplication.run(MonitorTrafficApplication.class, args);
 	}
 
