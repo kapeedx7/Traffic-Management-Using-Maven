@@ -11,6 +11,7 @@ public class MonitorTrafficApplication {
 		// Main code
 		// Changes in the Feature Branch
 		// Branch Protection Rule Applied
+		// Merge Pull Request 3rd
 		SpringApplication.run(MonitorTrafficApplication.class, args);
 	}
 
